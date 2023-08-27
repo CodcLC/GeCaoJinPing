@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "9a073220-e47d-4fca-ab82-e162e09fdc67",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 36,
+  "height": 70,
+  "platformSettings": {},
+  "subMetas": {
+    "shexian_game": {
+      "ver": "1.0.6",
+      "uuid": "7f7fad56-c920-47ff-9553-f37521428b0a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9a073220-e47d-4fca-ab82-e162e09fdc67",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 36,
+      "height": 70,
+      "rawWidth": 36,
+      "rawHeight": 70,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
